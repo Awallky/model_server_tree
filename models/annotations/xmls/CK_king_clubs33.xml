@@ -1,0 +1,26 @@
+<annotation>
+	<folder>king_clubs</folder>
+	<filename>CK_king_clubs33.jpg</filename>
+	<path>/Users/chelseakuball/labelImg/king_clubs/CK_king_clubs33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>218</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KingOfClubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>52</ymin>
+			<xmax>214</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

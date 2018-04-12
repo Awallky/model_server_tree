@@ -1,0 +1,26 @@
+<annotation>
+	<folder>QueenOfSpades</folder>
+	<filename>SM_QoS3.jpg</filename>
+	<path>D:\Senior Year, Spring\CS499\Cards\SPRING BREAK CARDS\QueenOfSpades\SM_QoS3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QueenOfSpades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>83</ymin>
+			<xmax>88</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>NineOfHearts_36.jpg</filename>
+  <path>C:\Users\Adam\Dropbox\Public\NineOfHearts\images\NineOfHearts_36.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>225</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>NineOfHearts</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>127</xmin>
+      <ymin>45</ymin>
+      <xmax>174</xmax>
+      <ymax>90</ymax>
+    </bndbox>
+  </object>
+</annotation>

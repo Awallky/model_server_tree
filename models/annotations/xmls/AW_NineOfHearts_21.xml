@@ -1,0 +1,38 @@
+<annotation>
+  <folder>images</folder>
+  <filename>AW_NineOfHearts_21.jpg</filename>
+  <path>C:\Users\Adam\Desktop\CK cards\NineOfHearts\images\AW_NineOfHearts_21.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>200</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>NineOfHearts</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>152</xmin>
+      <ymin>15</ymin>
+      <xmax>180</xmax>
+      <ymax>86</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>TenOfHearts</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>172</xmin>
+      <ymin>18</ymin>
+      <xmax>264</xmax>
+      <ymax>162</ymax>
+    </bndbox>
+  </object>
+</annotation>

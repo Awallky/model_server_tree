@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>TenOfSpades_16.jpg</filename>
+  <path>C:\Users\Adam_G_PC\Dropbox\Public\TenOfSpades\images\TenOfSpades_16.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>225</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>TenOfSpades</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>1</ymin>
+      <xmax>71</xmax>
+      <ymax>101</ymax>
+    </bndbox>
+  </object>
+</annotation>

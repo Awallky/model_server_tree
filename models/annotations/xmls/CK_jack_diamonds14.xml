@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jack_diamonds</folder>
+	<filename>CK_jack_diamonds14.jpg</filename>
+	<path>/Users/chelseakuball/labelImg/jack_diamonds/CK_jack_diamonds14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>406</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JackOfDiamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>14</ymin>
+			<xmax>289</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

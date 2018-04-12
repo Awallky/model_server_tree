@@ -1,0 +1,26 @@
+<annotation>
+	<folder>QueenOfHearts</folder>
+	<filename>DV_QueenOfHearts(2).JPG</filename>
+	<path>C:\Users\Donal\Documents\CS499\images\QueenOfHearts\DV_QueenOfHearts(2).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QueenOfHearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>33</ymin>
+			<xmax>246</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+</annotation>

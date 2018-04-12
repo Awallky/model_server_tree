@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NineOfClubs</folder>
+	<filename>DV_NineOfClubs(21).JPG</filename>
+	<path>C:\Users\Donal\Documents\CS499\images\NineOfClubs\DV_NineOfClubs(21).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NineOfClubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>75</ymin>
+			<xmax>158</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

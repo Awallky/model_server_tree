@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>TenOfDiamonds_25.jpg</filename>
+  <path>C:\Users\Adam\Dropbox\Public\TenOfDiamonds\images\TenOfDiamonds_25.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>225</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>TenOfDiamonds</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>6</xmin>
+      <ymin>1</ymin>
+      <xmax>101</xmax>
+      <ymax>50</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AceOfClubs</folder>
+	<filename>RS_AceOfClubs_(32).jpg</filename>
+	<path>C:\Users\Rupal Shah\Dropbox\Spring Break Cards\AceOfClubs\RS_AceOfClubs_(32).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AceOfClubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>10</ymin>
+			<xmax>200</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>

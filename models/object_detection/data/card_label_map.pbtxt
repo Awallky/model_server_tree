@@ -1,0 +1,124 @@
+item {
+  id: 0
+  name: 'none_of_the_above'
+}
+
+item {
+  id: 1
+  name: 'NineOfClubs'
+}
+
+item {
+  id: 2
+  name: 'NineOfDiamonds'
+}
+
+item {
+  id: 3
+  name: 'NineOfHearts'
+}
+
+item {
+  id: 4
+  name: 'NineOfSpades'
+}
+
+item {
+  id: 5
+  name: 'TenOfClubs'
+}
+
+item {
+  id: 6
+  name: 'TenOfDiamonds'
+}
+
+item {
+  id: 7
+  name: 'TenOfHearts'
+}
+
+item {
+  id: 8
+  name: 'TenOfSpades'
+}
+
+item {
+  id: 9
+  name: 'JackOfClubs'
+}
+
+item {
+  id: 10
+  name: 'JackOfDiamonds'
+}
+
+item {
+  id: 11
+  name: 'JackOfHearts'
+}
+
+item {
+  id: 12
+  name: 'JackOfSpades'
+}
+
+item {
+  id: 13
+  name: 'QueenOfClubs'
+}
+
+item {
+  id: 14
+  name: 'QueenOfDiamonds'
+}
+
+item {
+  id: 15
+  name: 'QueenOfHearts'
+}
+
+item {
+  id: 16
+  name: 'QueenOfSpades'
+}
+
+item {
+  id: 17
+  name: 'KingOfClubs'
+}
+
+item {
+  id: 18
+  name: 'KingOfDiamonds'
+}
+
+item {
+  id: 19
+  name: 'KingOfHearts'
+}
+
+item {
+  id: 20
+  name: 'KingOfSpades'
+}
+
+item {
+  id: 21
+  name: 'AceOfClubs'
+}
+
+item {
+  id: 22
+  name: 'AceOfDiamonds'
+}
+
+item {
+  id: 23
+  name: 'AceOfHearts'
+}
+
+item {
+  id: 24
+  name: 'AceOfSpades'
+}

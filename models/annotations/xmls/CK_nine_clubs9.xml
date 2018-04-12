@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nine_clubs</folder>
+	<filename>CK_nine_clubs9.jpg</filename>
+	<path>/Users/chelseakuball/labelImg/nine_clubs/CK_nine_clubs9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>218</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NineOfClubs</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>75</ymin>
+			<xmax>90</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

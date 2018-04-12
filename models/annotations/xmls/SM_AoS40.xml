@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AceOfSpades</folder>
+	<filename>SM_AoS40.jpg</filename>
+	<path>D:\Senior Year, Spring\CS499\Cards\SPRING BREAK CARDS\AceOfSpades\SM_AoS40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AceOfSpades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>74</ymin>
+			<xmax>145</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>

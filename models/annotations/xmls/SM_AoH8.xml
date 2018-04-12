@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ace of Hearts</folder>
+	<filename>SM_AoH8.jpg</filename>
+	<path>D:\Senior Year, Spring\CS499\Cards\Ace of Hearts\SM_AoH8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AceOfHearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>16</ymin>
+			<xmax>104</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+</annotation>

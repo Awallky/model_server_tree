@@ -1,0 +1,38 @@
+<annotation>
+  <folder>Ten of Hearts</folder>
+  <filename>CK_ten_hearts35.jpg</filename>
+  <path>C:\Users\Adam\Desktop\CK cards\Ten of Hearts\CK_ten_hearts35.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>203</width>
+    <height>290</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>TenOfHearts</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>24</xmin>
+      <ymin>37</ymin>
+      <xmax>187</xmax>
+      <ymax>230</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>TenOfHearts</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>156</ymin>
+      <xmax>67</xmax>
+      <ymax>255</ymax>
+    </bndbox>
+  </object>
+</annotation>

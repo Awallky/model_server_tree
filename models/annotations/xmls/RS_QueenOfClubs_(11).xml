@@ -1,0 +1,26 @@
+<annotation>
+	<folder>QueenOfClubs</folder>
+	<filename>RS_QueenOfClubs_(11).jpg</filename>
+	<path>C:\Users\Rupal Shah\Dropbox\Spring Break Cards\QueenOfClubs\RS_QueenOfClubs_(11).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QueenOfClubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>42</ymin>
+			<xmax>200</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

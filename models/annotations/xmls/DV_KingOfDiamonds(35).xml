@@ -1,0 +1,26 @@
+<annotation>
+	<folder>KingOfDiamonds</folder>
+	<filename>DV_KingOfDiamonds(35).JPG</filename>
+	<path>C:\Users\Donal\Documents\CS499\images\KingOfDiamonds\DV_KingOfDiamonds(35).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KingOfDiamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>53</ymin>
+			<xmax>148</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>

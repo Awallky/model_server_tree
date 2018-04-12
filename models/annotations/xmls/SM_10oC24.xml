@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10OfClubs</folder>
+	<filename>SM_10oC24.jpg</filename>
+	<path>D:\Senior Year, Spring\CS499\Cards\9s and 10s\10OfClubs\SM_10oC24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TenOfClubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>11</ymin>
+			<xmax>247</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>

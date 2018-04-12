@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Re-Sized King of Hearts</folder>
+	<filename>RSKingOfHearts(35).jpg</filename>
+	<path>C:\Users\Rupal Shah\Desktop\Re-Sized King of Hearts\RSKingOfHearts(35).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KingOfHearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>24</ymin>
+			<xmax>223</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

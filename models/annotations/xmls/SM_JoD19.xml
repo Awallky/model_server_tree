@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jack of Diamonds</folder>
+	<filename>SM_JoD19.jpg</filename>
+	<path>D:\Senior Year, Spring\CS499\Cards\Jack of Diamonds\SM_JoD19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JackOfDiamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>40</ymin>
+			<xmax>167</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TenOfSpades</folder>
+	<filename>DV_TenOfSpades(40).JPG</filename>
+	<path>C:\Users\Donal\Documents\CS499\images\TenOfSpades\DV_TenOfSpades(40).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TenOfSpades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>94</ymin>
+			<xmax>284</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

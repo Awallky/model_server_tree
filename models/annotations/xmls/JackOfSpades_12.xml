@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>JackOfSpades_12.jpg</filename>
+  <path>C:\Users\Adam_G_PC\Dropbox\Public\JackOfSpades\images\JackOfSpades_12.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>225</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>JackOfSpades</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>34</xmin>
+      <ymin>86</ymin>
+      <xmax>135</xmax>
+      <ymax>170</ymax>
+    </bndbox>
+  </object>
+</annotation>

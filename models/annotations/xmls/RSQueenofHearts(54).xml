@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Re-Sized Queen of Hearts</folder>
+	<filename>RSQueenofHearts(54).jpg</filename>
+	<path>C:\Users\Rupal Shah\Desktop\Re-Sized Queen of Hearts\RSQueenofHearts(54).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QueenOfHearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>97</ymin>
+			<xmax>200</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

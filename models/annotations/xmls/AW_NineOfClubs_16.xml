@@ -1,0 +1,38 @@
+<annotation>
+  <folder>images</folder>
+  <filename>AW_NineOfClubs_16.jpg</filename>
+  <path>C:\Users\Adam\Desktop\CK cards\NineOfClubs\images\AW_NineOfClubs_16.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>177</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>NineOfClubs</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>11</xmin>
+      <ymin>11</ymin>
+      <xmax>145</xmax>
+      <ymax>163</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>TenOfClubs</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>150</xmin>
+      <ymin>8</ymin>
+      <xmax>284</xmax>
+      <ymax>162</ymax>
+    </bndbox>
+  </object>
+</annotation>

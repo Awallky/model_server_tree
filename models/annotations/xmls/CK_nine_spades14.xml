@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nine_spades</folder>
+	<filename>CK_nine_spades14.jpg</filename>
+	<path>/Users/chelseakuball/labelImg/nine_spades/CK_nine_spades14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>218</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NineOfSpades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>68</ymin>
+			<xmax>203</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

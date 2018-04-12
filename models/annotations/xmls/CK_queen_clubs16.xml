@@ -1,0 +1,26 @@
+<annotation>
+	<folder>queen_clubs</folder>
+	<filename>CK_queen_clubs16.jpg</filename>
+	<path>/Users/chelseakuball/labelImg/queen_clubs/CK_queen_clubs16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>199</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QueenOfClubs</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>1</ymin>
+			<xmax>199</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

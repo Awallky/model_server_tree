@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TenOfHearts</folder>
+	<filename>RS_TenOfHearts_(48).jpg</filename>
+	<path>C:\Users\Rupal Shah\Documents\CS499 Senior Design\TenOfHearts\RS_TenOfHearts_(48).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TenOfHearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>40</ymin>
+			<xmax>220</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

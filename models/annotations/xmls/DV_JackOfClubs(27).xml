@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JackOfClubs</folder>
+	<filename>DV_JackOfClubs(27).JPG</filename>
+	<path>C:\Users\Donal\Documents\CS499\images\JackOfClubs\DV_JackOfClubs(27).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JackOfClubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>47</ymin>
+			<xmax>153</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

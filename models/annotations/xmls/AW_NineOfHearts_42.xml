@@ -1,0 +1,26 @@
+<annotation>
+  <folder>9oH</folder>
+  <filename>AW_NineOfHearts_42.jpg</filename>
+  <path>C:\Users\Adam\Dropbox\Public\9oH\AW_NineOfHearts_42.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>169</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>NineOfHearts</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>103</ymin>
+      <xmax>50</xmax>
+      <ymax>168</ymax>
+    </bndbox>
+  </object>
+</annotation>

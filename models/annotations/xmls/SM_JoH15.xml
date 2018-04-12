@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jack of Hearts</folder>
+	<filename>SM_JoH15.jpg</filename>
+	<path>D:\Senior Year, Spring\CS499\Cards\RESIZED\Jack of Hearts\SM_JoH15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JackOfHearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>107</ymin>
+			<xmax>291</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

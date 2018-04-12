@@ -1,0 +1,26 @@
+<annotation>
+	<folder>! KingOfDiamonds</folder>
+	<filename>RS_KingOfDiamonds_(41).jpg</filename>
+	<path>C:\Users\Rupal Shah\Dropbox\! KingOfDiamonds\RS_KingOfDiamonds_(41).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KingOfDiamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>115</ymin>
+			<xmax>231</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

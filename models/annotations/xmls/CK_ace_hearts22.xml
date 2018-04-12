@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ace_hearts</folder>
+	<filename>CK_ace_hearts22.jpg</filename>
+	<path>/Users/chelseakuball/labelImg/ace_hearts/CK_ace_hearts22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AceOfHearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>10</ymin>
+			<xmax>272</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

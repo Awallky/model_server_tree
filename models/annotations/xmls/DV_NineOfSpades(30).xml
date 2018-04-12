@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NineOfSpades</folder>
+	<filename>DV_NineOfSpades(30).JPG</filename>
+	<path>C:\Users\Donal\Documents\CS499\images\NineOfSpades\DV_NineOfSpades(30).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NineOfSpades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>3</ymin>
+			<xmax>232</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+</annotation>

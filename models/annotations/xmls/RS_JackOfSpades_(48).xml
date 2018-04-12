@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JackOfSpades</folder>
+	<filename>RS_JackOfSpades_(48).jpg</filename>
+	<path>C:\Users\Rupal Shah\Dropbox\!!! Week 5\JackOfSpades\RS_JackOfSpades_(48).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JackOfSpades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>84</ymin>
+			<xmax>185</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>9oSp</folder>
+  <filename>AW_NineOfSpades_31.jpg</filename>
+  <path>C:/Users/Adam_G_PC/Dropbox/Public/9oSp/AW_NineOfSpades_31.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>169</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>NineOfSpades</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>125</xmin>
+      <ymin>71</ymin>
+      <xmax>159</xmax>
+      <ymax>114</ymax>
+    </bndbox>
+  </object>
+</annotation>

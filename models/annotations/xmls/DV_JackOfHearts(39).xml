@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JackOfHearts</folder>
+	<filename>DV_JackOfHearts(39).JPG</filename>
+	<path>C:\Users\Donal\Documents\CS499\images\JackOfHearts\DV_JackOfHearts(39).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JackOfHearts</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>115</ymin>
+			<xmax>181</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

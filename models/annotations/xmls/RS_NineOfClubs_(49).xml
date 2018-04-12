@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NineOfClubs</folder>
+	<filename>RS_NineOfClubs_(49).jpg</filename>
+	<path>C:\Users\Rupal Shah\Documents\CS499 Senior Design\NineOfClubs\RS_NineOfClubs_(49).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NineOfClubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>116</ymin>
+			<xmax>183</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

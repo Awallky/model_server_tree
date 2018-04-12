@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Ten of Diamonds</folder>
+  <filename>CK_ten_diamonds15.jpg</filename>
+  <path>C:\Users\Adam\Desktop\CK cards\Ten of Diamonds\CK_ten_diamonds15.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>218</width>
+    <height>290</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>TenOfDiamonds</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>94</xmin>
+      <ymin>12</ymin>
+      <xmax>186</xmax>
+      <ymax>88</ymax>
+    </bndbox>
+  </object>
+</annotation>

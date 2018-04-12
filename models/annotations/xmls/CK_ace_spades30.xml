@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ace_spades</folder>
+	<filename>CK_ace_spades30.jpg</filename>
+	<path>/Users/chelseakuball/labelImg/ace_spades/CK_ace_spades30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>218</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AceOfSpades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>42</ymin>
+			<xmax>185</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

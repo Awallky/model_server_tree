@@ -1,0 +1,26 @@
+<annotation>
+	<folder>QueenOfClubs</folder>
+	<filename>SM_QoC22.jpg</filename>
+	<path>D:\Senior Year, Spring\CS499\Cards\SPRING BREAK CARDS\QueenOfClubs\SM_QoC22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QueenOfClubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>54</ymin>
+			<xmax>258</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

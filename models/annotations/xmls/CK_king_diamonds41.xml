@@ -1,0 +1,26 @@
+<annotation>
+	<folder>king_diamonds</folder>
+	<filename>CK_king_diamonds41.jpg</filename>
+	<path>/Users/chelseakuball/labelImg/king_diamonds/CK_king_diamonds41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>462</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KingOfDiamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>4</ymin>
+			<xmax>290</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Queen of Hearts</folder>
+	<filename>SM_QoH27.jpg</filename>
+	<path>D:\Senior Year, Spring\CS499\Cards\RESIZED\Queen of Hearts\SM_QoH27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QueenOfHearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>42</ymin>
+			<xmax>285</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

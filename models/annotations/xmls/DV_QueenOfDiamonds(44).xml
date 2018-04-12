@@ -1,0 +1,26 @@
+<annotation>
+	<folder>QueenOfDiamonds</folder>
+	<filename>DV_QueenOfDiamonds(44).JPG</filename>
+	<path>C:\Users\Donal\Documents\CS499\images\QueenOfDiamonds\DV_QueenOfDiamonds(44).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QueenOfDiamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>45</ymin>
+			<xmax>151</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>

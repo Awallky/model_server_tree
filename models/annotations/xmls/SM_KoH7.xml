@@ -1,0 +1,26 @@
+<annotation>
+	<folder>King of Hearts</folder>
+	<filename>SM_KoH7.jpg</filename>
+	<path>D:\Senior Year, Spring\CS499\Cards\RESIZED\King of Hearts\SM_KoH7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KingOfHearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>12</ymin>
+			<xmax>288</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+</annotation>

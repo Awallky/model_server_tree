@@ -1,0 +1,26 @@
+<annotation>
+	<folder>! AceOfHearts</folder>
+	<filename>RS_AceOfHearts_(37).jpg</filename>
+	<path>C:\Users\Rupal Shah\Dropbox\! AceOfHearts\RS_AceOfHearts_(37).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AceOfHearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>99</ymin>
+			<xmax>189</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>

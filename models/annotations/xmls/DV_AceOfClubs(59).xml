@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AceOfClubs</folder>
+	<filename>DV_AceOfClubs(59).JPG</filename>
+	<path>C:\Users\Donal\Documents\CS499\images\AceOfClubs\DV_AceOfClubs(59).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AceOfClubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>50</ymin>
+			<xmax>174</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

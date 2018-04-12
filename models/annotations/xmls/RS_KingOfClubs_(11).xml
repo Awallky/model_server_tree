@@ -1,0 +1,26 @@
+<annotation>
+	<folder>KingOfClubs</folder>
+	<filename>RS_KingOfClubs_(11).jpg</filename>
+	<path>C:\Users\Rupal Shah\Dropbox\Spring Break Cards\KingOfClubs\RS_KingOfClubs_(11).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KingOfClubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>122</ymin>
+			<xmax>121</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

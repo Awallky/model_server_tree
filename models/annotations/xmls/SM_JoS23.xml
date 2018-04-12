@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JackOfSpades</folder>
+	<filename>SM_JoS23.jpg</filename>
+	<path>D:\Senior Year, Spring\CS499\Cards\SPRING BREAK CARDS\JackOfSpades\SM_JoS23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JackOfSpades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>60</ymin>
+			<xmax>275</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+</annotation>

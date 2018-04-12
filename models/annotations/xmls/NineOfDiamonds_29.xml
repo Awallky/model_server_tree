@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>NineOfDiamonds_29.jpg</filename>
+  <path>C:\Users\Adam\Dropbox\Public\NineOfDiamonds\images\NineOfDiamonds_29.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>225</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>NineOfDiamonds</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>54</xmin>
+      <ymin>186</ymin>
+      <xmax>115</xmax>
+      <ymax>219</ymax>
+    </bndbox>
+  </object>
+</annotation>

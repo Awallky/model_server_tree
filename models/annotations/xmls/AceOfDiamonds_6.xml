@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Downloads</folder>
+  <filename>AceOfDiamonds_6.jpg</filename>
+  <path>C:\Users\Adam\Downloads\AceOfDiamonds_6.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>225</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>AceOfDiamonds</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>50</xmin>
+      <ymin>77</ymin>
+      <xmax>195</xmax>
+      <ymax>108</ymax>
+    </bndbox>
+  </object>
+</annotation>

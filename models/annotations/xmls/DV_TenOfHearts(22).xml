@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TenOfHearts</folder>
+	<filename>DV_TenOfHearts(22).JPG</filename>
+	<path>C:\Users\Donal\Documents\CS499\images\TenOfHearts\DV_TenOfHearts(22).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TenOfHearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>116</ymin>
+			<xmax>169</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>KingOfDiamonds</folder>
+  <filename>Photo Feb 28, 10 39 26 AM</filename>
+  <path>C:\Users\Adam\Dropbox\Public\images\KingOfDiamonds\Photo Feb 28, 10 39 26 AM.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>4032</width>
+    <height>3024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>KingOfDiamonds</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>485</ymin>
+      <xmax>846</xmax>
+      <ymax>2772</ymax>
+    </bndbox>
+  </object>
+</annotation>

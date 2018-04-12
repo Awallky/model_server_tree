@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AceOfClubs</folder>
+	<filename>SM_AoC22.jpg</filename>
+	<path>D:\Senior Year, Spring\CS499\Cards\SPRING BREAK CARDS\AceOfClubs\SM_AoC22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AceOfClubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>89</ymin>
+			<xmax>121</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>

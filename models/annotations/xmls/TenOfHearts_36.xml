@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>TenOfHearts_36.jpg</filename>
+  <path>C:\Users\Adam\Dropbox\Public\TenOfHearts\images\TenOfHearts_36.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>225</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>TenOfHearts</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>1</ymin>
+      <xmax>53</xmax>
+      <ymax>35</ymax>
+    </bndbox>
+  </object>
+</annotation>

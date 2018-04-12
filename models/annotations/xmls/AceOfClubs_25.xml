@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>AceOfClubs_25.jpg</filename>
+  <path>C:\Users\Adam_G_PC\Dropbox\Public\AceOfClubs\images\AceOfClubs_25.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>225</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>AceOfClubs</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>13</xmin>
+      <ymin>172</ymin>
+      <xmax>92</xmax>
+      <ymax>225</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>QueenOfClubs</folder>
+	<filename>SM_QoC6.jpg</filename>
+	<path>D:\Senior Year, Spring\CS499\Cards\SPRING BREAK CARDS\QueenOfClubs\SM_QoC6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QueenOfClubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>29</ymin>
+			<xmax>303</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>

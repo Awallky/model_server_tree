@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Downloads</folder>
+  <filename>QueenOfHearts_2.jpg</filename>
+  <path>C:\Users\Adam\Downloads\QueenOfHearts_2.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>225</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>QueenOfHearts</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>100</xmin>
+      <ymin>124</ymin>
+      <xmax>300</xmax>
+      <ymax>225</ymax>
+    </bndbox>
+  </object>
+</annotation>

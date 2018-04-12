@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ace_diamonds</folder>
+	<filename>CK_ace_diamonds15.jpg</filename>
+	<path>/Users/chelseakuball/labelImg/ace_diamonds/CK_ace_diamonds15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>401</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AceOfDiamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>85</ymin>
+			<xmax>366</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

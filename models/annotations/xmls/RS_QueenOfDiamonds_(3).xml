@@ -1,0 +1,26 @@
+<annotation>
+	<folder>! QueenOfDiamonds</folder>
+	<filename>RS_QueenOfDiamonds_(3).jpg</filename>
+	<path>C:\Users\Rupal Shah\Dropbox\! QueenOfDiamonds\RS_QueenOfDiamonds_(3).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QueenOfDiamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>55</ymin>
+			<xmax>298</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>

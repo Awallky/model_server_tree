@@ -1,0 +1,26 @@
+<annotation>
+	<folder>QueenOfSpades</folder>
+	<filename>DV_QueenOfSpades(18).JPG</filename>
+	<path>C:\Users\Donal\Documents\CS499\images\QueenOfSpades\DV_QueenOfSpades(18).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QueenOfSpades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>25</ymin>
+			<xmax>107</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

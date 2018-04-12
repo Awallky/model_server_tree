@@ -1,0 +1,26 @@
+<annotation>
+	<folder>King of Diamonds</folder>
+	<filename>SM_KoD10.jpg</filename>
+	<path>D:\Senior Year, Spring\CS499\Cards\King of Diamonds\SM_KoD10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KingOfDiamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>96</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+</annotation>

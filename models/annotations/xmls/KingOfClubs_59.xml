@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>KingOfClubs_59.jpg</filename>
+  <path>C:\Users\Adam_G_PC\Dropbox\Public\KingOfClubs\images\KingOfClubs (59).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>225</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>KingOfClubs</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>124</xmin>
+      <ymin>160</ymin>
+      <xmax>203</xmax>
+      <ymax>225</ymax>
+    </bndbox>
+  </object>
+</annotation>

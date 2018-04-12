@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ace_clubs</folder>
+	<filename>CK_ace_clubs1.jpg</filename>
+	<path>/Users/chelseakuball/labelImg/ace_clubs/CK_ace_clubs1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>205</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AceOfClubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>7</ymin>
+			<xmax>199</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

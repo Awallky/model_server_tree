@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10OfSpades</folder>
+	<filename>SM_10oS16.jpg</filename>
+	<path>D:\Senior Year, Spring\CS499\Cards\9s and 10s\10OfSpades\SM_10oS16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TenOfSpades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>124</ymin>
+			<xmax>310</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

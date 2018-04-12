@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JackOfSpades</folder>
+	<filename>DV_JackOfSpades(28).JPG</filename>
+	<path>C:\Users\Donal\Documents\CS499\images\JackOfSpades\DV_JackOfSpades(28).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JackOfSpades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>76</ymin>
+			<xmax>280</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

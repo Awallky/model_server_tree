@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jack_clubs</folder>
+	<filename>CK_jack_clubs16.jpg</filename>
+	<path>/Users/chelseakuball/labelImg/jack_clubs/CK_jack_clubs16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>214</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JackOfClubs</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>2</ymin>
+			<xmax>214</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ace of Diamonds</folder>
+	<filename>SM_AoD51.jpg</filename>
+	<path>D:\Senior Year, Spring\CS499\Cards\RESIZED\Ace of Diamonds\SM_AoD51.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AceOfDiamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>46</ymin>
+			<xmax>73</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+</annotation>

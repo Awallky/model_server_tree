@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JackOfClubs</folder>
+	<filename>SM_JoC30.jpg</filename>
+	<path>D:\Senior Year, Spring\CS499\Cards\SPRING BREAK CARDS\JackOfClubs\SM_JoC30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JackOfClubs</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>37</ymin>
+			<xmax>217</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

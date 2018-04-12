@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>QueenOfClubs_36.jpg</filename>
+  <path>C:\Users\Adam_G_PC\Dropbox\Public\QueenOfClubs\images\QueenOfClubs (36).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>225</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>QueenOfClubs</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>211</xmin>
+      <ymin>168</ymin>
+      <xmax>238</xmax>
+      <ymax>192</ymax>
+    </bndbox>
+  </object>
+</annotation>

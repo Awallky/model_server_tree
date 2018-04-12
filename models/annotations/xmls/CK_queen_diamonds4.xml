@@ -1,0 +1,26 @@
+<annotation>
+	<folder>queen_diamonds</folder>
+	<filename>CK_queen_diamonds4.jpg</filename>
+	<path>/Users/chelseakuball/labelImg/queen_diamonds/CK_queen_diamonds4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>402</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QueenOfDiamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>17</ymin>
+			<xmax>286</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

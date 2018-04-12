@@ -1,0 +1,38 @@
+<annotation>
+  <folder>Ten of Clubs</folder>
+  <filename>CK_ten_clubs45.jpg</filename>
+  <path>C:\Users\Adam\Desktop\CK cards\Ten of Clubs\CK_ten_clubs45.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>435</width>
+    <height>290</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>NineOfClubs</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>150</xmin>
+      <ymin>38</ymin>
+      <xmax>289</xmax>
+      <ymax>251</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>TenOfClubs</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>296</xmin>
+      <ymin>35</ymin>
+      <xmax>433</xmax>
+      <ymax>251</ymax>
+    </bndbox>
+  </object>
+</annotation>

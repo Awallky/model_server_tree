@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>NineOfClubs_1.jpg</filename>
+  <path>C:\Users\Adam\Dropbox\Public\NineOfClubs\images\NineOfClubs_1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>225</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>NineOfClubs</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>46</xmin>
+      <ymin>78</ymin>
+      <xmax>150</xmax>
+      <ymax>179</ymax>
+    </bndbox>
+  </object>
+</annotation>

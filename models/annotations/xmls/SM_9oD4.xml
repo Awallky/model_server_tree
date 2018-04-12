@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9OfDiamonds</folder>
+	<filename>SM_9oD4.jpg</filename>
+	<path>D:\Senior Year, Spring\CS499\Cards\9s and 10s\9OfDiamonds\SM_9oD4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NineOfDiamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>112</ymin>
+			<xmax>270</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

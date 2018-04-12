@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TenOfClubs</folder>
+	<filename>DV_TenOfClubs(57).JPG</filename>
+	<path>C:\Users\Donal\Documents\CS499\images\TenOfClubs\DV_TenOfClubs(57).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TenOfClubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>130</ymin>
+			<xmax>88</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

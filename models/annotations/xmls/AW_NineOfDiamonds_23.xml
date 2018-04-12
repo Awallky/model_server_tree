@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>AW_NineOfDiamonds_23.jpg</filename>
+  <path>C:\Users\Adam\Desktop\CK cards\NineOfDiamonds\images\AW_NineOfDiamonds_23.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>219</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>NineOfDiamonds</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>5</xmin>
+      <ymin>4</ymin>
+      <xmax>213</xmax>
+      <ymax>290</ymax>
+    </bndbox>
+  </object>
+</annotation>

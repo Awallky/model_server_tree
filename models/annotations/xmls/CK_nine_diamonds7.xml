@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nine_diamonds</folder>
+	<filename>CK_nine_diamonds7.jpg</filename>
+	<path>/Users/chelseakuball/labelImg/nine_diamonds/CK_nine_diamonds7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>218</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NineOfDiamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>93</ymin>
+			<xmax>135</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

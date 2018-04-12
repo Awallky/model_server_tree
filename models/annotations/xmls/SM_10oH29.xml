@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10OfHearts</folder>
+	<filename>SM_10oH29.jpg</filename>
+	<path>D:\Senior Year, Spring\CS499\Cards\9s and 10s\10OfHearts\SM_10oH29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TenOfHearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>64</ymin>
+			<xmax>296</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

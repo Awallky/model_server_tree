@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jack_hearts</folder>
+	<filename>CK_jack_hearts4.jpg</filename>
+	<path>/Users/chelseakuball/labelImg/jack_hearts/CK_jack_hearts4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>212</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JackOfHearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>7</ymin>
+			<xmax>205</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

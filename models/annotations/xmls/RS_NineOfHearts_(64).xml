@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>NineOfHearts</folder>
+	<filename>RS_NineOfHearts_(64).jpg</filename>
+	<path>C:\Users\Rupal Shah\Dropbox\Spring Break Cards\NineOfHearts\RS_NineOfHearts_(64).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NineOfHearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>75</ymin>
+			<xmax>221</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TenOfDiamonds</folder>
+	<filename>RS_TenOfDiamonds_(57).jpg</filename>
+	<path>C:\Users\Rupal Shah\Documents\CS499 Senior Design\TenOfDiamonds\RS_TenOfDiamonds_(57).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TenOfDiamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>11</ymin>
+			<xmax>240</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>

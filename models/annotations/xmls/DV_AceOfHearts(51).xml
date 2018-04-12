@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AceOfHearts</folder>
+	<filename>DV_AceOfHearts(51).JPG</filename>
+	<path>C:\Users\Donal\Documents\CS499\images\AceOfHearts\DV_AceOfHearts(51).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AceOfHearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>105</ymin>
+			<xmax>139</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

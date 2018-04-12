@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ten_spades</folder>
+	<filename>CK_ten_spades28.jpg</filename>
+	<path>/Users/chelseakuball/labelImg/ten_spades/CK_ten_spades28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>218</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TenOfSpades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>5</ymin>
+			<xmax>178</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>

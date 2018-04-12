@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jack_spades</folder>
+	<filename>CK_jack_spades29.jpg</filename>
+	<path>/Users/chelseakuball/labelImg/jack_spades/CK_jack_spades29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>218</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JackOfSpades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>65</ymin>
+			<xmax>212</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>
