@@ -8,7 +8,7 @@
 #################################################################
 #################################################################
 
-gsutil cp gs://bicycle_only/train/model.ckpt-$1.* .
+#gsutil cp gs://bicycle_only/train/model.ckpt-$1.* .
 python models/object_detection/export_inference_graph.py \
     --input_type image_tensor \
     --pipeline_config_path models/object_detection/samples/configs/faster_rcnn_resnet101_cards.config \
