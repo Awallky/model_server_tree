@@ -1,4 +1,6 @@
 # Use this to create a new frozen model model 
+wget https://www.dropbox.com/s/lmp1dqi0d45w6ji/output_inference_graph.pb
+mv output_inference_graph.pb test_ckpt/
 #gsutil cp gs://cards_data/train/model.ckpt-$1.* .
 #python object_detection/export_inference_graph.py \
 #    --input_type image_tensor \
