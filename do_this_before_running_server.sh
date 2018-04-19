@@ -14,4 +14,5 @@ export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim
 
 # Now to run the server
 cd ..
+sudo pip install flask
 python deploy_server.py
