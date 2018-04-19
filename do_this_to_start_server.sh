@@ -1,3 +1,4 @@
+# Use this to create a new frozen model model 
 #gsutil cp gs://cards_data/train/model.ckpt-$1.* .
 #python object_detection/export_inference_graph.py \
 #    --input_type image_tensor \
@@ -6,6 +7,7 @@
 #    --inference_graph_path test_ckpt/output_inference_graph.pb
 
 #################################################################
+# Export the server                       
 #################################################################
 export PYTHONPATH=$PYTHONPATH:`pwd`/models:`pwd`/models/slim
 
@@ -16,4 +18,4 @@ python ./models/object_detection/export_inference_graph.py \
     --checkpoint_path model.ckpt-$1 \
     --inference_graph_path ./test_ckpt/output_inference_graph.pb
 
-sh do_this_before_running_server.sh
+sh install_libs_and_run_server.sh
