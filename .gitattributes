@@ -1,9 +1,0 @@
-*.pb filter=lfs diff=lfs merge=lfs -text
-*.jpg filter=lfs diff=lfs merge=lfs -text
-*parser-params filter=lfs diff=lfs merge=lfs -text
-*tagger-params filter=lfs diff=lfs merge=lfs -text
-*608* filter=lfs diff=lfs merge=lfs -text
-*e954* filter=lfs diff=lfs merge=lfs -text
-*model.ckpt* filter=lfs diff=lfs merge=lfs -text
-*.repository filter=lfs diff=lfs merge=lfs -text
-*596a1* filter=lfs diff=lfs merge=lfs -text
